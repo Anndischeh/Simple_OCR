@@ -46,9 +46,9 @@ Model 3:
 ## Result 
 All three models underwent training for 5 epochs. The results and the process are visualized in the plot below. While the performance of all models is roughly similar, Model 3 exhibits slightly higher accuracy.
 
-![Training Results](https://github.com/Anndischeh/Simple_OCR/blob/e46c9a403936a6084b5d4adfa59a62759d34b2a1/media/result.png)
+<img src="https://github.com/Anndischeh/Simple_OCR/blob/e46c9a403936a6084b5d4adfa59a62759d34b2a1/media/result.png" alt="Training Results" style="width:30%;">
 
 # Example
 Here is a demonstration of the model's performance on a sample of test data:
 
-![Sample Test Data](https://github.com/Anndischeh/Simple_OCR/blob/e46c9a403936a6084b5d4adfa59a62759d34b2a1/media/samples.png)
+<img src="https://github.com/Anndischeh/Simple_OCR/blob/e46c9a403936a6084b5d4adfa59a62759d34b2a1/media/samples.png" alt="Sample Test Data" style="width:30%;">
